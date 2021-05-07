@@ -13,7 +13,7 @@
 "charset": "UTF-8"
 },
  "/login/*": {
-"X-Author": "flhero50",
+"X-Author": "jouine",
 "Access-Control-Allow-Origin": "*",
 "Content-Type": "text/plain",
 "charset": "UTF-8"
